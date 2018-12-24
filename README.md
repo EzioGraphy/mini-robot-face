@@ -1,5 +1,6 @@
 # **Mini Robot Face**
 
+MiniRobotFace like COZMO facial expression, in ESP8266(NodeMCU) u8g2 ssd1306_128x64, use eLua draw
 1. **face-neutral.lua**
 
    include  ***neutral, squint*** 
