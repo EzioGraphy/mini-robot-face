@@ -3,7 +3,7 @@
 MiniRobotFace like COZMO facial expression, in ESP8266(NodeMCU) u8g2 ssd1306_128x64 display, use eLua draw（No u8g2.disp:drawXBM() is used）
 1. **face-neutral.lua**
 
-   include  ***neutral, squint*** 
+   includes  ***neutral, squint*** 
 
    ```lua
    --neutral 
@@ -22,7 +22,7 @@ MiniRobotFace like COZMO facial expression, in ESP8266(NodeMCU) u8g2 ssd1306_128
 
 2. **face-blink.lua**
 
-   include ***blink-high,blink-down***
+   includes ***blink-high,blink-down***
 
    ```lua
    -- blink high
@@ -52,7 +52,7 @@ MiniRobotFace like COZMO facial expression, in ESP8266(NodeMCU) u8g2 ssd1306_128
 
 4. **face-glee.lua**
 
-   include ***glee***
+   includes ***glee***
 
    ```lua
    --glee
@@ -64,7 +64,7 @@ MiniRobotFace like COZMO facial expression, in ESP8266(NodeMCU) u8g2 ssd1306_128
 
 5. **face-sad.lua** 
 
-   include ***sadup,saddown***
+   includes ***sadup,saddown***
 
    ```lua
    --up
@@ -84,7 +84,7 @@ MiniRobotFace like COZMO facial expression, in ESP8266(NodeMCU) u8g2 ssd1306_128
 
 6. **face-worried.lua**
 
-   include ***worried***
+   includes ***worried***
 
    ```lua
    --worried
@@ -96,7 +96,7 @@ MiniRobotFace like COZMO facial expression, in ESP8266(NodeMCU) u8g2 ssd1306_128
 
 7. **face-focused.lua**
 
-   include ***focused***
+   includes ***focused***
 
    ```lua
    --focused
@@ -108,7 +108,7 @@ MiniRobotFace like COZMO facial expression, in ESP8266(NodeMCU) u8g2 ssd1306_128
 
 8. **face-anroyed.lua**
 
-   include ***anroyed***
+   includes ***anroyed***
 
    ```lua
    --anroyed
@@ -120,6 +120,7 @@ MiniRobotFace like COZMO facial expression, in ESP8266(NodeMCU) u8g2 ssd1306_128
 
 9. **face-surprised.lua**
 
+   includes ***surprised***
    ```lua
    --surprised
    dofile('face-surprised.lua')
@@ -130,7 +131,7 @@ MiniRobotFace like COZMO facial expression, in ESP8266(NodeMCU) u8g2 ssd1306_128
 
 10. **face-skeptic.lua**
 
-    include ***skeptic,suspicious***
+    includes ***skeptic,suspicious***
 
     ```lua
     -- skeptic
@@ -150,7 +151,7 @@ MiniRobotFace like COZMO facial expression, in ESP8266(NodeMCU) u8g2 ssd1306_128
 
 11. **face-frustrated.lua**
 
-    include ***frustrated,unimpressed***
+    includes ***frustrated,unimpressed***
 
     ```lua
     -- frustrated
@@ -162,11 +163,11 @@ MiniRobotFace like COZMO facial expression, in ESP8266(NodeMCU) u8g2 ssd1306_128
 
 12. ***face-sleepyeyes.lua***
 
-    include ***sleepyeyes***
+    includes ***sleepyeyes***
 
 13. ***face-surprised.lua***
 
-    include ***surprised***
+    includes ***surprised***
 
     ```lua
     --surprised
@@ -186,7 +187,7 @@ MiniRobotFace like COZMO facial expression, in ESP8266(NodeMCU) u8g2 ssd1306_128
 
 14. ***face-angry.lua***
 
-    include ***angry,furous***
+    includes ***angry,furous***
 
     ```lua
     -- angry
@@ -206,7 +207,7 @@ MiniRobotFace like COZMO facial expression, in ESP8266(NodeMCU) u8g2 ssd1306_128
 
 15. ***face-scared.lua***
 
-    include ***scared***
+    includes ***scared***
 
     ```lua
     --scared
@@ -218,7 +219,7 @@ MiniRobotFace like COZMO facial expression, in ESP8266(NodeMCU) u8g2 ssd1306_128
 
 16. ***face-awe.lua***
 
-    include ***awe***
+    includes ***awe***
 
     ```lua
     --awe
