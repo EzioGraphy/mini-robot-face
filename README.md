@@ -1,7 +1,5 @@
 # **Mini Robot Face**
 
-------
-
 1. **face-neutral.lua**
 
    include  ***neutral, squint*** 
