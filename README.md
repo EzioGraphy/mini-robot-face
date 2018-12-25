@@ -2,7 +2,7 @@
 
 MiniRobotFace like COZMO(https://www.anki.com/en-us/cozmo) facial expression, in ESP8266(NodeMCU) u8g2 ssd1306_128x64 display, use eLua draw（no u8g2.disp:drawXBM() is used）
 
-default setting
+default params
 
 ```lua
 SCREEN_WIDTH = 128
@@ -15,7 +15,7 @@ DEF_EYES_SPACING = 4
 
 1. **face-neutral.lua**
 
-   includes  ***neutral, squint,blink_high,blink_low*** 
+   includes  ***neutral,blinkhigh,blinklow,squint*** 
 
    ```lua
    --neutral
