@@ -45,30 +45,10 @@ function _face(x,y,lew,leh,ler,rew,reh,rer,margin_left)
     return lx,ly,lw,lh,lr,rx,ry,rw,rh,rr
 end
 
-dofile('anim-neutral.lua')
+dofile('face-neutral.lua')
 function draw()
-    anim_neutral._start()
+    neutral._default()
 end
-
-
-function loop()
-   
-  -- picture loop  
-  --disp:clearBuffer()
-  draw()
-  --disp:sendBuffer()
-  
-  --loop_tmr:start()
-end
-draw_state = 0
 init_spi_display()
-loop()
-print("--- Starting Graphics signle---")
---[[
-loop_tmr = tmr.create()
-loop_tmr:register(1000, tmr.ALARM_SEMI, loop)
-
-init_spi_display()
-print("--- Starting Graphics Test ---")
-loop_tmr:start()
-]]--
+draw()
+print("--- Starting Graphics---")
