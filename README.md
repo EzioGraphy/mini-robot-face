@@ -12,7 +12,7 @@ MiniRobotFace like COZMO(https://www.anki.com/en-us/cozmo) facial expression, in
 
 3. upload code to esp8266 use ESPlorer(https://github.com/4refr0nt/ESPlorer)
 
-4. init.lua  boot
+4. init.lua boot (there are examples in init.lua)
 
 default setting
 
