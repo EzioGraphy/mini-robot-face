@@ -6,7 +6,7 @@ MiniRobotFace like COZMO(https://www.anki.com/en-us/cozmo) facial expression, in
 
 2. written nodemcu-firmware into esp8266 use NodeMCU-PyFlasher(https://github.com/marcelstoer/nodemcu-pyflasher)
 
-3. upload code to esp8266 use ESPlorer(https://github.com/4refr0nt/ESPlorer)
+3. ESPlorer(https://github.com/4refr0nt/ESPlorer) IDE connect esp8266
 
 4. init.lua boot (***there are examples in init.lua***)
 
