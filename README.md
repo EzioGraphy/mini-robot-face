@@ -3,7 +3,7 @@ MiniRobotFace like COZMO(https://www.anki.com/en-us/cozmo) facial expression, in
 
 ------
 
-![](D:\Work\VM\IOT\ESP8266\DOC\2018\XProj\proj-6\robot-face\cozmo-face.jpg)
+![](https://raw.githubusercontent.com/soft-di/mini-robot-face/master/cozmo-face.jpg)
 
 ##  steps
 1.  build nodemcu-firmware(https://nodemcu-build.com/)  master branch 15 modules: ***file*** ***gpio*** http ***i2c*** mqtt net ***node*** pwm sjson ***spi*** ***tmr u8g2*** uart websocket wifi
