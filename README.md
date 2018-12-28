@@ -1,5 +1,5 @@
 # **Mini Robot Face**
-MiniRobotFace like COZMO(https://www.anki.com/en-us/cozmo) facial expression, in ESP8266(nodemcu-firmware https://github.com/nodemcu/nodemcu-firmware) u8g2 ssd1306_128x64 display, use eLua draw（no u8g2.disp:drawXBM() is used）
+mini-robot-face like COZMO(https://www.anki.com/en-us/cozmo) facial expression, in ESP8266(nodemcu-firmware https://github.com/nodemcu/nodemcu-firmware) u8g2 ssd1306_128x64 display, use eLua draw（no u8g2.disp:drawXBM() is used）
 
 
 ![](https://raw.githubusercontent.com/soft-di/mini-robot-face/master/cozmo-face.jpg)
