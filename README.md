@@ -4,7 +4,6 @@ MiniRobotFace like COZMO(https://www.anki.com/en-us/cozmo) facial expression, in
 
 ## installation steps
 1.  build nodemcu-firmware(https://nodemcu-build.com/)  master branch 15 modules: ***file*** ***gpio*** http ***i2c*** mqtt net ***node*** pwm sjson ***spi*** ***tmr u8g2*** uart websocket wifi
-https://github.com/nodemcu/nodemcu-firmware  master
 
 2. written nodemcu-firmware into esp8266 use NodeMCU-PyFlasher(https://github.com/marcelstoer/nodemcu-pyflasher)
 
