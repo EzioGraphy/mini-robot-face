@@ -340,3 +340,5 @@ DEF_EYES_SPACING = 4
     local x,y = SCREEN_WIDTH/2-lw,4
     awe._draw(x,y,lw,lh,rw,rh)
     ```
+# **License**
+MIT
