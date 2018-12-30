@@ -1,5 +1,4 @@
-worried = {
-}
+worried = {}
 function worried._left(lx,ly,lw,lh,lr)
     _left(lx,ly,lw,lh,lr)
     disp:setDrawColor(0)
