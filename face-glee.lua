@@ -34,7 +34,7 @@ function glee._draw(x,y,lw,lh,rw,rh)
      glee._right(rx,ry,rw,rh,rr)
 end
 
-function glee._default(x,y,lw,lh,rw,rh)
+function glee._default()
     disp:clearBuffer()
     u8g2_prepare()
     
