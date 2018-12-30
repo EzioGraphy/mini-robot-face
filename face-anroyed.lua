@@ -28,7 +28,7 @@ function anroyed._draw(x,y,lw,lh,rw,rh)
     anroyed._right(rx,ry,rw,rh,rr)
 end
 
-function anroyed._default(x,y,lw,lh,rw,rh)
+function anroyed._default()
     disp:clearBuffer()
     u8g2_prepare()
     
