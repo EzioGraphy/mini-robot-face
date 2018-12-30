@@ -26,7 +26,7 @@ function focused._draw(x,y,lw,lh,rw,rh)
     focused._right(rx,ry,rw,rh,rr)
 end
 
-function focused._default(x,y,lw,lh,rw,rh)
+function focused._default()
     disp:clearBuffer()
     u8g2_prepare()
     
