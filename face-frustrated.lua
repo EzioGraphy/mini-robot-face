@@ -30,7 +30,7 @@ function frustrated._draw(x,y,lw,lh,rw,rh)
     frustrated._right(rx,ry,rw,rh,rr)
 end 
 
-function frustrated._default(x,y,lw,lh,rw,rh)
+function frustrated._default()
     disp:clearBuffer()
     u8g2_prepare()
     
