@@ -26,7 +26,7 @@ function happy._draw(x,y,lw,lh,rw,rh)
      happy._right(rx,ry,rw,rh,rr)
 end
 
-function happy._default(x,y,lw,lh,rw,rh)
+function happy._default()
     disp:clearBuffer()
     u8g2_prepare()
     
