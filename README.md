@@ -325,7 +325,7 @@ DEF_EYES_SPACING = 4
     local x,y = SCREEN_WIDTH/2-lw,4
     scared._draw(x,y,lw,lh,rw,rh)
     ```
-19. ***face-.lua***
+19. ***face-awe.lua***
 
     ```lua
     --default expression
