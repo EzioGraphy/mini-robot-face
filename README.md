@@ -23,7 +23,7 @@ DEF_EYES_SPACING = 4
 ```
 
 
-
+![](https://github.com/soft-di/mini-robot-face/blob/master/mini-robot-face-lines.png)
 1. **face-neutral.lua**
 
    ```lua
